@@ -4,4 +4,10 @@ This is a simple tutorial for the beginner who want to run the OPC UA server on 
 
 ## Prerequisites
 1. You have installed Docker on your Windows PC/MAC/Linux device.(This totorial uses macOS)
-2. 
+
+## Pull the image
+open your terminal and enter the following code
+```
+docker pull mcr.microsoft.com/iotedge/opc-plc
+```
+
